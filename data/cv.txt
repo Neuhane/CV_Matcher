@@ -1,0 +1,306 @@
+June 2024–
+Oct. 2024
+B E R U F S E R F A H R U N G E N
+Onsite Techniker IT,
+Durch No Limit/ Getronics bei HDI Versicherung, Deutschland
+ Durchführung von Hardwaretests und Konfiguration von BIOSEinstellungen
+im Rahmen eines Windows 11 Migrationsprojekts
+bei einem Großkunden aus der Versicherungsbranche
+ Betankung und Einrichtung von Arbeitsplatzrechnern (OSDeployment,
+Softwareinstallation)
+ Durchführung von IMAC-Prozessen (Install, Move, Add, Change)
+sowie Rollouts neuer Hardware
+ IT-Support und Kundenbetreuung im Bereich Client-Hardware
+vor Ort
+ ITSM-Ticketbearbeitung mit ServiceNow: Klassifizierung,
+Bearbeitung und Dokumentation von Serviceanfragen
+ Unterstützung bei der Fehlerdiagnose und -behebung im Client-
+Umfeld (Windows, Microsoft-Produkte)
+ Verkabelung und Patchen von Netzwerkkomponenten im
+Serverraum
+Werkstudent bei Flashstahl, Deutschland
+ Produktionsunterstützung ( wie Überwachung von
+Produktionsprozessen)
+ Wartung und Instandhaltung: Unterstützung bei der Inspektion
+und Wartung von Maschinen und Anlagen.
+IT Network Administrator
+Tourismusministerium, Kamerun
+ Verwaltung und Wartung der Netzwerk-Infrastruktur
+ Implementierung von Sicherheitsmaßnahmen zum Schutz
+sensibler Daten
+ Überwachung der Netzwerkperformance
+ Durchführung von Software-Updates und Installation von
+Windows-Betriebssystemen
+ Installation und Wartung von Druckern
+ Sicherstellung einer stabilen und effizienten IT-Umgebung
+für die Mitarbeiter
+ Lösungsfindung
+ Kommunikation und Teamarbeit
+ Emotionale Intelligenz
+ Planung und Organisation
+ Belastbarkeit
+ Motivation und Selbstvertrauen
+ Arbeitsfreude
+Projekte Sprachen Kulturen Programmiersprachen
+4+
+3 3+
+2+
+S O F T S K I L L S
+Lionel Diosky
+Mbiada Neuhane
+Ein engagierter IT-Netzwerk- und Sicherheitsadministrator sowie
+Softwareentwickler mit umfangreicher Erfahrung in Netzwerktechnik,
+Cybersicherheit und Programmierung zeichnet mich aus. Hervorragende
+zwischenmenschliche und Kommunikationsfähigkeiten ergänzen mein
+Profil. Und zurzeit bin ich schon klausurfrei und ich erfasse in diesem
+Semester meine Masterarbeit (SS25).
++49- 176 29962475
++49 015560 634572
+lionelmbiada20@gmail.com
+Am Exer 23 Zimmer: 27,
+38302 Wolfenbüttel
+W A R U M I C H
+S C H N E L L E F A K T E N
+Profil
+E X P E R T I S E
+Entwicklung Python-Anwendungen
+Software-Testung
+Netzwerkadminitration und Security
+IT-Support
+Datenbanken
+ Lösungsfindung
+ Kommunikation und Teamarbeit
+ Emotionale Intelligenz
+ Planung und Organisation
+ Belastbarkeit
+ Motivation und Selbstvertrauen
+ Arbeitsfreude
+Feb. 2019 –
+Apr. 2019
+Maerz 2025
+– Heute
+ISO/IEC 27001 Certification Training
+ Learn ISO/IEC 27001 clauses and Annex A controls
+with real-world examples.
+ Master ISMS implementation, auditing, and
+compliance.
+ Develop leadership in Information Security
+ Final test to validate your knowledge and expertise.
+Python Training bei Udemy
+ Basisprogrammierung und Fortgeschrittene (OOP)
+ Skriptautomatisierung und Ethical Hacking
+ Webentwicklung (HTML, CSS)
+IELTS Zertifikat
+British Council, Kamerun
+Goethe Zertifikat B1, B2,C1, TestDaF
+Goethe Institut, Kamerun
+Cisco CyberOps Zertifikat
+Cisco Academy Helios, Kamerun
+ Grundlagen der Netzwerksicherheit
+ Bedrohungserkennung und -analyse
+ Sicherheitsüberwachung und -warnung
+ Incident Response, Management und Netzwerkforensik
+ Implementierung von Sicherheitsprotokollen und -richtlinien
+ Sicherheit in Netzwerken und Endgeräten
+CCNA Security Zertifikat
+Cisco Academy Helios, Kamerun
+ Grundlagen der Netzwerksicherheit
+ Implementierung von Sicherheitsrichtlinien
+ Schutz von Netzwerkgeräten und Firewall-Technologien
+ VPNs (Virtual Private Networks)
+ Intrusion Detection und Prevention Systems (IDPS)
+ Sicherheitsmanagement
+CCNP Core Zertifikat
+Cisco Academy Helios, Kamerun
+ Erweiterte Routing-Techniken
+ Switching-Technologien
+ Netzwerkdesign und -architektur
+ Implementierung von Sicherheitslösungen
+ Netzwerkautomatisierung und Programmierbarkeit
+ Netzwerkvirtualisierung
+ Qualitätssicherung im Netzwerk (QoS)
+ Troubleshooting und Fehlersuche
+ WAN-Technologien
+ Netzwerkmanagement und –überwachung
+Office 365
+2021 – 2023
+95 %
+Cloud, Docker
+Grafana, Smart IoT
+K e n n t n i s s e n
+60 %
+MySQL
+S P R A C H E N
+JAVA
+Windows OS, Linux
+C
+60 %
+T E C H S K I L L S
+Deutsch
+Englisch
+Netzwerken
+REST API
+CI/CD
+Französisch (Muttersprache)
+90 %
+70 %
+60 %
+Python
+35 2023
+Sep. 2023
+– Jun. 2024
+Nov 2020 –
+Mai 2021
+Jan 2021 –
+Sep 2021
+Sep 2021-
+Nov 2022
+Sep. 2024 –
+Maerz 2024
+Z E R T I F I Z I E R U N G E N
+852001458=
+Office 365
+KI
+H O B B Y S /
+I N T E R E S S E N
+MySQL
+JAVA
+Windows OS, Linux
+C
+Python
+Bachelor – Informatik
+Universität Ngoundere-Kamerun
+Schwerpunkte:
+ Netzwerke
+ Telekommunikation
+Abitur – Elektrotechnik
+Technisches Gymnasium Bangangte-Kamerun
+Schwerpunkte: Elektrotechnik
+ Netzwerke
+Sep 2016-
+Sep 2019
+2016
+MASTERARBEIT
+Thema meiner Masterarbeit
+KI-gestützte Malware-Erkennung in Netzwerken
+ Entwicklung eines ML/DL-Modells zur Erkennung von Zero-
+Day-Malware anhand von Netzwerkverkehrsdaten.
+ Untersuchung adversarialer Angriffe auf ML-basierte
+Sicherheitssysteme.
+S T U D I U M U N D S C H U L A U S B I L D U N G
+MikroTik MTCNA Zertifizierung
+Infogenie, Kamerun
+ Grundlagen von MikroTik RouterOS
+ Netzwerkkonfiguration mit MikroTik Geräten
+ Routing und VLANs mit MikroTik RouterOS
+ Netzwerksicherheit und Firewall-Konfiguration mit
+RouterOS
+ Tunneling und VPN mit MikroTik RouterOS
+ Quality of Service (QoS) und Netzwerkmanagement mit
+Mikrotik RouterOS
+CCNA Routing and Switching Zertifikat
+Cisco Academy Helios in Kamerun
+ Grundlagen der Netzwerktechnologie
+ Routing-Konzepte und Protokolle (z.B. OSPF, EIGRP)
+ Switching-Technologien und VLANs
+ Netzwerkadressierung und Subnetting
+ Implementierung und Verwaltung von IPAdressierungsschemata
+ Konfiguration und Verwaltung von Routern und Switches
+ Troubleshooting von Netzwerken
+Dec 2019 –
+Sep 2020
+Dec 2020 –
+Jan 2021
+Master of Science (M.Sc.) – Informatik (schon klausurfreie)
+Ostfalia Hochschule Wolfenbüttel
+Schwerpunkte:
+ Information Engineering
+ Systems Engineering
+Sep 2023-
+Heute
+N e t z w e r k s -
+P r o t o k o l l e n
+VLAN, STP, SMTP,
+DHCP, DNS, HTTP,
+HTTPS, SSL, VPN,
+Taccacs, RADIUS,
+NTP, ACL, BGP,
+OSPF, RIP, EIGRP,
+MPLS….
+N e t w o r k T o o l s
+PUTY, GNS3,
+VMWare, Packet
+Tracer, Wireshark…
+H O B B Y S /
+I N T E R E S S E N
+Netzwerken
+KI
+Musik hören
+Lesen
+Office 365
+95 %
+S T U D I E N P R O J E K T E
+Hackathon-Projekt ( Turtlebot )
+ Mein Team entwickelte ein Hackathon-Projekt mit einem
+Turtlebot zur Hindernisvermeidung. Wir implementierten das
+Projekt mit Python und Sensoren, um in einem Wettbewerb
+unsere Lösung vorzustellen.
+Spamerkennung ( Machinelles Lernen )
+ Im Rahmen eines Spamerkennungsprojekts mit maschinellem
+Lernen entwickelte mein Team eine fortschrittliche Lösung zur
+automatisierten Identifizierung und Filterung von Spam. Wir
+trainierten und implementierten verschiedene Machine-
+Learning-Modelle, um verdächtige Nachrichten zu erkennen
+und zu klassifizieren.
+Pepper Robot als Fuehrer in einem Museum
+ Das Projekt setzte den Pepper-Roboter als Museumsführer ein, der
+Besucher durch Ausstellungen begleitete, Informationen bereitstellte
+und Fragen beantwortete. Wir entwickelten eine benutzerfreundliche
+Navigationstechnologie, um sicherzustellen, dass Pepper die
+Besucher reibungslos durch das Museum führte. Dadurch wurde eine
+interaktive und informative Erfahrung geschaffen, die den
+Museumsbesuchern zugutekam.
+Entwicklung einer komplexen Anwendung mit modernen
+Technologien
+ basierend auf einem API-First-Ansatz mit OpenAPI-Spezifikation,
+einem React-basierten Single-Page-Frontend und einem Spring-
+Boot-Backend. Umsetzung der oAuth-Authentifizierung über Azure
+IdP, sicherer Datenaustausch zwischen Microservices mittels REST
+mit API-Keys sowie Message Queues (RabbitMQ/Azure Service Bus)
+und Datenpersistenz mit Hibernate und PostgreSQL. Sicherstellung
+einer verschlüsselten Kommunikation über TLS (SSL) sowie
+Bereitstellung der Anwendung in verschiedenen Umgebungen (lokal,
+dediziert, Docker, Cloud) durch automatisierte CI/CD-Pipelines
+Projektmitarbeit Smart Retail Environment( Smart IoT)
+ Umsetzung eines IoT-Systems mit M5Stack, MQTT, InfluxDB und
+Grafana
+ Erfassung und Visualisierung von Bestands- und Sensordaten
+ Entwicklung einer skalierbaren, dezentralen Microservice-Architektur
+ Aufbau eines Dashboards zur Echtzeitüberwachung von
+Lagerbeständen und Energieverbrauch
+Praxisprojekt GNSS-RTK-Positionsbestimmung
+ Entwicklung eines präzisen GNSS-RTK-Systems mit Raspberry Pi 5
+und UM982-GNSS-Modulen
+ Einrichtung von Basisstation und Rover mit Echtzeit-
+Datenübertragung via WLAN/Mobilfunk
+KI
+H O B B Y S /
+I N T E R E S S E N
+60 %
+MySQL
+F u h r e r s c h e i n
+JAVA
+Windows OS, Linux
+C
+60 %
+T E C H S K I L L S
+Kategorie B
+Netzwerken
+Lesen
+Musik hören
+Wolfenbüttel, April 2025
+90 %
+70 %
+60 %
+Python
+35
